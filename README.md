@@ -210,7 +210,7 @@ CREATIVE                                  ├── Vertical (20-30% rule)
 
 ```bash
 # Clone
-git clone https://github.com/jordicabelloo/paid-ads-advisorGO.git
+git clone https://github.com/pryxis-ai/paid-ads-advisorGO.git
 
 # Install in Claude Code
 cp -r paid-ads-advisorGO ~/.claude/skills/paid-ads-advisorGO
@@ -277,5 +277,5 @@ Once installed, Claude Code automatically activates the skill when you mention p
 ---
 
 <p align="center">
-  <strong>MIT License</strong> &bull; Built by <a href="https://github.com/jordicabelloo">@jordicabelloo</a>
+  <strong>MIT License</strong> &bull; Built by <a href="https://pryxis.es">PRYXIS</a>
 </p>
